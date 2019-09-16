@@ -36,7 +36,6 @@ const stego = dinos[1];
 console.log(stego.length);
 
 // What time period did tyrannosaurus live in?
-const tRex = dinos[0];
 
 console.log(tRex.period);
 
